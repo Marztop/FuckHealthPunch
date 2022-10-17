@@ -8,3 +8,6 @@ forked from [PairZhu/NjtechScript](https://github.com/PairZhu/NjtechScript)
 
 ## 服务器端代码（Flask）
 Flask和页面文件已打包，可直接运行`src\server\main.py`，部署于树莓派、云服务器中，使用api轮询进行打卡
+
+>我的服务器跑着demo，提交authentication即可打卡，仅供学习使用！
+[demo](http://xusclub.top/fuckthehealthpunch)
