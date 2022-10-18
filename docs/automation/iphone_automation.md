@@ -6,4 +6,4 @@
 4. 在筛选到的请求里找到以loadFormListBySUrl开头的这个请求，并点击右侧的“Headers”（“标头”）标签，即可在“Request Headers”（“请求标头”）里看到Authentication字段，将引号后的内容复制下来填入脚本。
 
 ## 图片教程（Chrome浏览器）
-![图片教程](./%E5%9B%BE%E7%89%87%E6%95%99%E7%A8%8B.jpg)
+![图片教程](./photo.jpg)
